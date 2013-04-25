@@ -1,1 +1,3 @@
 this new release contains two new features abc and xyz
+
+hotfix #1 - memory leak issue fixed
